@@ -18,4 +18,10 @@ public class LoginPageExecution extends LoginPageLocators {
 		
 	}
 	
+	public void print() {
+		System.out.println("Sucess");
+		
+	}
+
+	
 }
